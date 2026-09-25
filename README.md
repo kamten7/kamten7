@@ -9,7 +9,7 @@
 <!-- ===================== TYPING TAGLINE ===================== -->
 
 <a href="https://github.com/kamten7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=780&lines=Java+Backend+Developer+%C2%B7+LLM+Application+Engineer;Spring+Boot+3+%C2%B7+Spring+AI+%C2%B7+MyBatis-Plus+%C2%B7+MySQL+%C2%B7+Redis;LangChain4j+%C2%B7+Function+Calling+%C2%B7+SSE+Streaming+Agent;%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BC%80%E5%8F%91+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;Open+to+2026+Java+Backend+Internship" alt="typing taglines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=780&lines=Java+Backend+Developer+%C2%B7+LLM+Application+Engineer;Spring+Boot+%C2%B7+Spring+AI+%C2%B7+MyBatis-Plus+%C2%B7+MySQL+%C2%B7+Redis;LangChain4j+%C2%B7+Function+Calling+%C2%B7+SSE+Streaming+Agent;%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BC%80%E5%8F%91+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;Open+to+2026+Java+Backend+Internship" alt="typing taglines"/>
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
 
 **Java backend developer & LLM application engineer.** Undergraduate in Software Engineering, comfortable taking a service from domain model to a delivered, tested interface.
 
-I build server-side systems with **Java 21 / Spring Boot 3** — layered architecture, RESTful API design, MySQL schema and indexing, Redis caching, JWT authentication, unified exception handling and parameter validation, backed by unit tests.
+I build server-side systems with **Java** and **Spring Boot** — layered architecture, RESTful API design, MySQL schema and indexing, Redis caching, JWT authentication, unified exception handling and parameter validation, backed by unit tests.
 
 On the AI side I work on the **LLM application layer of the JVM**: tool calling, conversation memory and streaming responses with **LangChain4j** and **Spring AI**, exposing model capability as ordinary, testable service interfaces.
 
@@ -55,7 +55,7 @@ On the AI side I work on the **LLM application layer of the JVM**: tool calling,
 
 **Java 后端开发 / 大模型应用开发**方向，软件工程本科在读。熟悉服务端开发，能从领域建模一路做到可交付、可测试的接口。
 
-使用 **Java 21 / Spring Boot 3** 构建服务端系统，熟悉分层架构、RESTful 接口设计、MySQL 表结构与索引优化、Redis 缓存、JWT 鉴权、全局异常处理与参数校验，并配有单元测试。
+使用 **Java** 与 **Spring Boot** 构建服务端系统，熟悉分层架构、RESTful 接口设计、MySQL 表结构与索引优化、Redis 缓存、JWT 鉴权、全局异常处理与参数校验，并配有单元测试。
 
 在大模型方向负责 **JVM 上的应用层开发**：基于 **LangChain4j** 与 **Spring AI** 实现工具调用（Function Calling）、会话记忆与流式响应，把模型能力封装成普通、可测试的服务接口。
 
@@ -78,7 +78,7 @@ On the AI side I work on the **LLM application layer of the JVM**: tool calling,
 #### [Nest_Backend](https://github.com/kamten7/Nest_Backend)
 > 租房平台服务端。8 个 Maven 模块分层架构、21 张业务表、81 个单元测试，覆盖房源 / 订单 / 审核等核心域建模；实现 JWT 鉴权、Redis 缓存、统一异常与参数校验，并集成基于 LangChain4j 的智能客服 Agent（Function Calling + SSE 流式 + 会话记忆）。
 
-`Java 21` `Spring Boot 3.4` `MyBatis-Plus` `MySQL` `Redis` `LangChain4j`
+`Java` `Spring Boot` `MyBatis-Plus` `MySQL` `Redis` `LangChain4j`
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +104,7 @@ On the AI side I work on the **LLM application layer of the JVM**: tool calling,
 #### [Nest_frontend](https://github.com/kamten7/Nest_frontend)
 > 房东端管理后台。房源上架、订单处理与数据看板。
 
-`Vue 3` `TypeScript` `Vite`
+`Vue` `TypeScript` `Vite`
 
 </td>
 </tr>
@@ -120,14 +120,14 @@ On the AI side I work on the **LLM application layer of the JVM**: tool calling,
 
 **Language**
 
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend Framework**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-1a1b27?style=for-the-badge&logo=mybatis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
