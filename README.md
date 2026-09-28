@@ -76,15 +76,15 @@ On the AI side I work on the **LLM application layer of the JVM**: tool calling,
 <td width="50%" valign="top">
 
 #### [Nest_Backend](https://github.com/kamten7/Nest_Backend)
-> 租房平台服务端。8 个 Maven 模块分层架构、21 张业务表、81 个单元测试，覆盖房源 / 订单 / 审核等核心域建模；实现 JWT 鉴权、Redis 缓存、统一异常与参数校验，并集成基于 LangChain4j 的智能客服 Agent（Function Calling + SSE 流式 + 会话记忆）。
+> 租房平台服务端。8 个 Maven 模块分层架构、19 张业务表、110 个单元测试，覆盖房源 / 订单 / 钱包 / 审核等核心域建模；实现 JWT 鉴权、Redis 缓存、统一异常与参数校验，并集成基于 LangChain4j 的智能找房 Agent（Function Calling + SSE 流式 + 会话记忆）。
 
 `Java` `Spring Boot` `MyBatis-Plus` `MySQL` `Redis` `LangChain4j`
 
 </td>
 <td width="50%" valign="top">
 
-#### [anxin-backend](https://github.com/cjz3899/anxin-backend) <sub>团队协作</sub>
-> 合同风险分析系统。负责文件解析（Apache Tika）、纯 Java 文字识别（PP-OCRv6）与大模型分析模块的接口设计与实现，打通「文档解析 → 条款切分 → 风险摘要」的输出链路。
+#### [anxin-backend](https://github.com/cjz3899/anxin-backend) <sub>团队协作（3 人，本人负责 OCR / 文档解析 / LLM 风险分析三个模块）</sub>
+> 合同风险分析系统。打通「文档解析 → 条款切分 → 大模型风险分析」的输出链路：基于 Apache Tika 抽取全文、纯 Java 在 JVM 内实现 PP-OCR 文字识别（免 Python 依赖）、LangChain4j 风险摘要与围栏容错。
 
 `Java` `Spring Boot` `Tika` `OCR` `LLM`
 
