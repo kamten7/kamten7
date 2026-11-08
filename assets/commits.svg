@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Commits by project: Nest_Backend 60, MySuda-System 36, TradeTrail 27, ULeg 26, Nest_uniapp 15, Nest_frontend 10">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080E18"/>
+      <stop offset="100%" stop-color="#0B1826"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="cool2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#155E75"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="url(#panel)" stroke="#16233A"/>
+
+  <rect x="40" y="34" width="6" height="6" rx="1.4" fill="#2DD4BF"/>
+  <text x="54" y="40.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#5B6B85">COMMIT ACTIVITY</text>
+  <text x="960" y="40.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#44556E">8 个公开仓库 · 178 次提交 · 统计于 2026.11</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+    <text x="236" y="82" text-anchor="end" fill="#DCE6F2">Nest_Backend</text>
+    <rect x="250" y="70" width="600" height="12" rx="6" fill="url(#hot)"/>
+    <text x="864" y="81" fill="#8FA1BA" font-size="12">60</text>
+
+    <text x="236" y="116" text-anchor="end" fill="#9FB0C6">MySuda-System</text>
+    <rect x="250" y="104" width="360" height="12" rx="6" fill="url(#cool)"/>
+    <text x="624" y="115" fill="#7C8EA8" font-size="12">36</text>
+
+    <text x="236" y="150" text-anchor="end" fill="#DCE6F2">TradeTrail</text>
+    <rect x="250" y="138" width="270" height="12" rx="6" fill="url(#cool2)"/>
+    <text x="534" y="149" fill="#8FA1BA" font-size="12">27</text>
+
+    <text x="236" y="184" text-anchor="end" fill="#9FB0C6">ULeg</text>
+    <rect x="250" y="172" width="260" height="12" rx="6" fill="url(#cool2)"/>
+    <text x="524" y="183" fill="#7C8EA8" font-size="12">26</text>
+
+    <text x="236" y="218" text-anchor="end" fill="#9FB0C6">Nest_uniapp</text>
+    <rect x="250" y="206" width="150" height="12" rx="6" fill="url(#cool2)"/>
+    <text x="414" y="217" fill="#7C8EA8" font-size="12">15</text>
+
+    <text x="236" y="252" text-anchor="end" fill="#9FB0C6">Nest_frontend</text>
+    <rect x="250" y="240" width="100" height="12" rx="6" fill="url(#cool2)"/>
+    <text x="364" y="251" fill="#7C8EA8" font-size="12">10</text>
+  </g>
+</svg>
