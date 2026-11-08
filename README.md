@@ -26,7 +26,7 @@
 
 ## 关于我 / About
 
-林潮锋，岭南师范学院软件工程大三。写 Java 后端，也把大模型接进 JVM 里——用 LangChain4j 做 Function Calling、会话记忆和 SSE 流式输出，把模型能力封装成普通、可测试的 Service。
+Lin ChaoFeng（kamten7），岭南师范学院软件工程大三。写 Java 后端，也把大模型接进 JVM 里——用 LangChain4j 做 Function Calling、会话记忆和 SSE 流式输出，把模型能力封装成普通、可测试的 Service。
 
 我不太相信「功能跑通了就算完成」。更在意的是：异常路径能不能复现、数据会不会写脏、下一个人改不改得动。所以顺序通常是——先想清楚状态怎么流转，再设计表，最后才是接口和单测。
 
