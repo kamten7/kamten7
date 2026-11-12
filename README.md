@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/status-open_to_internship-2DD4BF?style=flat-square&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/focus-Java_backend_/_LLM_apps-161F2E?style=flat-square&labelColor=0B1220"/>
-<img src="https://img.shields.io/badge/base-Zhanjiang_%E2%86%92_Guangzhou-161F2E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/target-Guangzhou-161F2E?style=flat-square&labelColor=0B1220"/>
 <a href="mailto:linchaofeng05@outlook.com"><img src="https://img.shields.io/badge/mail-linchaofeng05%40outlook.com-161F2E?style=flat-square&labelColor=0B1220&logo=microsoftoutlook&logoColor=2DD4BF"/></a>
 
 </div>
@@ -19,7 +19,7 @@
 
 ## 关于我 / About
 
-Lin ChaoFeng（kamten7），岭南师范学院软件工程大三。Java 后端方向，也做 JVM 上的大模型应用：LangChain4j 的 Function Calling、会话记忆与 SSE 流式输出。求职目标：广州，Java 后端实习。
+软件工程大三在读。Java 后端方向，也做 JVM 上的大模型应用：LangChain4j 的 Function Calling、会话记忆与 SSE 流式输出。求职目标：广州，Java 后端实习。
 
 ## 精选项目 / Selected work
 
