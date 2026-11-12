@@ -3,14 +3,12 @@
 <img src="./assets/header.svg" alt="kamten7 · Java backend & LLM application engineering" width="100%"/>
 
 <a href="https://github.com/kamten7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1500&color=2DD4BF&center=true&vCenter=true&width=740&lines=Java+Backend+Developer+%C2%B7+LLM+Application+Engineer;Spring+Boot+%C2%B7+MyBatis-Plus+%C2%B7+MySQL+%C2%B7+Redis;LangChain4j+%C2%B7+Function+Calling+%C2%B7+SSE+Streaming;Open+to+2026+Java+Backend+Internship" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1500&color=2DD4BF&center=true&vCenter=true&width=740&lines=Java+Backend+Developer+%C2%B7+LLM+Application+Engineer;Spring+Boot+%C2%B7+MyBatis-Plus+%C2%B7+MySQL+%C2%B7+Redis;LangChain4j+%C2%B7+Function+Calling+%C2%B7+SSE+Streaming" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-open_to_internship-2DD4BF?style=flat-square&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/focus-Java_backend_/_LLM_apps-161F2E?style=flat-square&labelColor=0B1220"/>
-<img src="https://img.shields.io/badge/target-Guangzhou-161F2E?style=flat-square&labelColor=0B1220"/>
 <a href="mailto:linchaofeng05@outlook.com"><img src="https://img.shields.io/badge/mail-linchaofeng05%40outlook.com-161F2E?style=flat-square&labelColor=0B1220&logo=microsoftoutlook&logoColor=2DD4BF"/></a>
 
 </div>
@@ -19,7 +17,7 @@
 
 ## 关于我 / About
 
-软件工程大三在读。Java 后端方向，也做 JVM 上的大模型应用：LangChain4j 的 Function Calling、会话记忆与 SSE 流式输出。求职目标：广州，Java 后端实习。
+软件工程大三在读。Java 后端方向，也做 JVM 上的大模型应用：LangChain4j 的 Function Calling、会话记忆与 SSE 流式输出。
 
 ## 精选项目 / Selected work
 
